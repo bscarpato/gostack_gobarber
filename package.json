@@ -16,6 +16,7 @@
     "date-fns": "^2.25.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
     "pg": "^8.7.1",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.38"
@@ -23,6 +24,7 @@
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
     "@types/express": "^4.17.13",
+    "@types/multer": "^1.4.7",
     "@typescript-eslint/eslint-plugin": "^5.2.0",
     "@typescript-eslint/parser": "^5.2.0",
     "eslint": "^7.32.0",

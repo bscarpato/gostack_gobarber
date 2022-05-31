@@ -4,3 +4,9 @@ jspm_packages/
 
 # Optional npm cache directory
 .npm
+.idea/
+.vscode/
+build/
+tmp/*
+!tmp/.gitkeep
+temp/
